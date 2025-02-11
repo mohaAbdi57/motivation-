@@ -1,0 +1,50 @@
+img{height: 100px;
+width: 100px;}
+h1{background-color: aquamarine;
+    color: red;
+font-size: 2rem;
+font-family: 'Courier New', Courier, monospace;
+text-align: center;
+font-weight: bold;}
+h2{color: brown;
+    background-color: azure;
+font-size: 2rem;
+font-family: 'Times New Roman', Times, serif;
+text-align: center;
+font-weight: bold;}
+body{font-family: Georgia, 'Times New Roman', Times, serif;
+font-size: 20px;font-weight: 150px;
+background-color: b;
+color: wh;
+}
+.first{text-align: left;
+border:  5px solid wheat;
+height: 220px;
+width: 900px;}
+#graduation-image{border: 5px solid goldenrod;
+}
+#second{height: 170px;
+width: 600px;
+margin-left: 20px;
+border: 10px solid gold;}
+
+
+p{margin: 0;}
+div{margin: 20px;}
+
+
+.fourth{height: 170px;
+width: 500px;
+border: 10px solid blueviolet;
+}
+#reading{  margin-left: 20px ;
+border: 5px solid red;}
+
+
+
+.fifth{height: 230px;
+width: 900px;
+border: 10px solid beige;
+margin:20px;}
+#motivation{border: 5px dashed black;
+margin-left: 10%;}
